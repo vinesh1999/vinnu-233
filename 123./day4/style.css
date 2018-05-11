@@ -1,0 +1,17 @@
+	.vinnu{
+			color: red;
+			font-family: roman;
+			background-color: red;
+		    }
+	    .p{
+		     color: blue;
+		    background-color: orange;
+	    }
+	    .img{
+		      width: 1000px;
+		      height: 500px;
+		      box-shadow: 0px 0px 5px;
+		      border-image-width: 30px;
+		      border-style:bold; ;
+              border-radius: 100px;
+	}			
